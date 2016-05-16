@@ -15,11 +15,11 @@ int main()
 		break;
 	case '-':
 		cout << a - b << endl;
-		break;/*
+		break;
 	case '*':
 		cout << a*b << endl;
 		break;
-	case '/':
+/*	case '/':
 		cout << a / b << endl;
 		break;
 	case '%':
