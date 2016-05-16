@@ -15,7 +15,7 @@ int main()
 		break;
 	case '-':
 		cout << a - b << endl;
-		break;
+		break;/*
 	case '*':
 		cout << a*b << endl;
 		break;
@@ -23,6 +23,6 @@ int main()
 		cout << a / b << endl;
 		break;
 	case '%':
-		cout << a%b << endl;
+		cout << a%b << endl;*/
 	}
 }
