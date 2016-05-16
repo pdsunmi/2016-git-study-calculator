@@ -19,10 +19,10 @@ int main()
 	case '*':
 		cout << a*b << endl;
 		break;
-/*	case '/':
+	case '/':
 		cout << a / b << endl;
 		break;
-	case '%':
+/*	case '%':
 		cout << a%b << endl;*/
 	}
 }
